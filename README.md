@@ -1,17 +1,6 @@
 # nguyenphucminhhuan_2224802010191_lab1
 
-A new Flutter project.
+Lab1 - Simple Project - Design UI - Phần 1 - Deadline 3/4/2026
+Video record result
+https://drive.google.com/file/d/1di9imAd0X3hRro3jXe6IXQ5MEHPAcYmF/view?usp=drive_link
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
